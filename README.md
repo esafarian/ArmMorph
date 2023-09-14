@@ -10,7 +10,7 @@ A fully trained model that detects these verbs accurately would help in learning
 
 This is an elementary approach that likely needs heavy revision before it can be used practically.
 
-# Data Sources:
+# Data Sources
 Universal Dependencies: https://github.com/UniversalDependencies/UD_Armenian-ArmTDP
 
 Stop Words: https://github.com/stopwords-iso/stopwords-hy/blob/master/stopwords-hy.txt
