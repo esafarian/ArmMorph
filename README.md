@@ -1,13 +1,13 @@
 # ArmMorph
 logistic regression model using pandas and scikitlearn.
 
-Small linguistics course project, purpose of this was to train a model to detect the verb form paradigms present in Eastern Armenian, for purposes of language learning. Idea was to examine morphological processes that may happen to the infinitve tense of the verb and examine the sorts of patterns that appear.
+Small linguistics course project, purpose of this was to train a model to detect the verb form paradigms present in Eastern Armenian, for purposes of language learning. Idea was to examine morphological processes that may happen to the infinitive tense of the verb and examine the sorts of patterns that appear. Ideally, these patterns could help with recognizing and differentiating between tenses for a beginner learner, non-native speaker of Armenian.
 
 A fully trained model that detects these verbs accurately would help in learning the Armenian language as it could both:
 
-1) Educate on the linguistic properties of the language overall
-2) Showcase typical patterns (which can reflect on other linguistic features besides verb morphology)
-
+1) Educate on the morphological properties of the language overall
+2) Showcase typical linguistic patterns
+   
 This is an elementary approach that likely needs heavy revision before it can be used practically.
 
 # Data Sources
