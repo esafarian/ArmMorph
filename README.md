@@ -13,15 +13,13 @@ Stop Words: https://github.com/stopwords-iso/stopwords-hy/blob/master/stopwords-
 ![image](https://github.com/esafarian2/ArmMorph/assets/78068346/4bd58ba4-1856-4cd4-ad1e-30f43501cb53)
 
 
-    precision    recall  f1-score   support
-
-       Subcat       0.99      1.00      1.00      1342
+                precision   recall    f1-score  support
+       Subcat      0.99      1.00      1.00      1342
        Tense       0.00      0.00      0.00         1
        Voice       0.00      0.00      0.00         6
-
-    accuracy                           0.99      1349
-    macro avg       0.33      0.33      0.33      1349
-    weighted avg       0.99      0.99      0.99      1349
+       accuracy                        0.99      1349
+       macro avg   0.33      0.33      0.33      1349
+       weighted avg0.99      0.99      0.99      1349
 
 
 # Conclusion:
